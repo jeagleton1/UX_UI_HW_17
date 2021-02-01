@@ -37,3 +37,10 @@ footer{
     background-color: #f5f5f5;
     padding: center;
     }
+
+.flex-container {
+    display: flex;
+    width: 33%;
+    flex-direction: row;
+
+}
